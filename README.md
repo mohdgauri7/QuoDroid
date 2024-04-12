@@ -1,5 +1,6 @@
 # QuoDroid
 #-------------------------- Required --------------------------
+
 Homebrew
 python3
 Django
